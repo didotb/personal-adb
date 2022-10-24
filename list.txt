@@ -1,4 +1,4 @@
-[Adblock Plus 2.8]
+[Adblock Plus 2.0]
 ! Version: 202210040751
 ! Title: d.b Personal list
 ! Last modified: 04-10-2022
